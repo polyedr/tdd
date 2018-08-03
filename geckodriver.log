@@ -1,0 +1,8 @@
+1533301868703	geckodriver	INFO	geckodriver 0.21.0
+1533301868712	geckodriver	INFO	Listening on 127.0.0.1:55016
+1533301869713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D10rmHxR3Ot6"
+1533301876887	Marionette	INFO	Listening on port 39371
+1533301876956	Marionette	WARN	TLS certificate errors will be ignored for this session
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
