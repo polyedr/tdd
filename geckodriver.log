@@ -6,3 +6,132 @@
 kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
 kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
 kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+1533303406692	geckodriver	INFO	geckodriver 0.21.0
+1533303406738	geckodriver	INFO	Listening on 127.0.0.1:45382
+1533303407754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TD8ijdXpWZJf"
+1533303423421	Marionette	INFO	Listening on port 46561
+1533303423744	Marionette	WARN	TLS certificate errors will be ignored for this session
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+1533303457417	geckodriver	INFO	geckodriver 0.21.0
+1533303457492	geckodriver	INFO	Listening on 127.0.0.1:45784
+1533303458746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NHCClQCUqGYW"
+1533303475927	Marionette	INFO	Listening on port 35657
+1533303476577	Marionette	WARN	TLS certificate errors will be ignored for this session
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+JavaScript error: jar:file:///usr/lib64/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533303555212	geckodriver	INFO	geckodriver 0.21.0
+1533303555295	geckodriver	INFO	Listening on 127.0.0.1:34267
+1533303556364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rEvNJtOaWhCC"
+1533303568843	Marionette	INFO	Listening on port 36081
+1533303568933	Marionette	WARN	TLS certificate errors will be ignored for this session
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533525967453	geckodriver	INFO	geckodriver 0.21.0
+1533525967530	geckodriver	INFO	Listening on 127.0.0.1:35073
+1533525967573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LUFpxUMib8rB"
+1533525982168	Marionette	INFO	Listening on port 41001
+1533525982229	Marionette	WARN	TLS certificate errors will be ignored for this session
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+1533525982966	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533526041989	geckodriver	INFO	geckodriver 0.21.0
+1533526041998	geckodriver	INFO	Listening on 127.0.0.1:36246
+1533526043007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oxcxKIAUKFQc"
+1533526049811	Marionette	INFO	Listening on port 33459
+1533526049873	Marionette	WARN	TLS certificate errors will be ignored for this session
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+1533526051090	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533612597117	geckodriver	INFO	geckodriver 0.21.0
+1533612597194	geckodriver	INFO	Listening on 127.0.0.1:42822
+1533612597235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uago1LSKQOa9"
+1533612630169	Marionette	INFO	Listening on port 37985
+1533612630785	Marionette	WARN	TLS certificate errors will be ignored for this session
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+1533612646474	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533612783045	geckodriver	INFO	geckodriver 0.21.0
+1533612783155	geckodriver	INFO	Listening on 127.0.0.1:33447
+1533612784147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dAFygI5ewwSV"
+1533612825488	Marionette	INFO	Listening on port 42475
+1533612826944	Marionette	WARN	TLS certificate errors will be ignored for this session
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+1533612837843	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+1533612840495	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1533612840519	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
